@@ -11,10 +11,10 @@ const props = defineProps({
 
 <template>
   <div class="flex flex-col items-center h-[269px]">
-    <div>
+    <div class="w-[292px]">
       <CollectionCardImages :numProperties="numProperties" :images="images" />
       <div
-        class="text-[18px] text-lh-jungle-green leading-[18px] font-[600] mt-[21px]"
+        class="text-[18px] text-lh-jungle-green leading-[18px] font-[600] mt-[21px] truncate"
       >
         {{ title }}
       </div>
