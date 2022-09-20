@@ -1,7 +1,7 @@
 <script setup>
-import Home from './containers/Home.vue';
+import HomeContainer from './containers/HomeContainer.vue';
 </script>
 
 <template>
-  <Home />
+  <HomeContainer />
 </template>

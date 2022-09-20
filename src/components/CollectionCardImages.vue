@@ -1,5 +1,5 @@
 <script setup>
-import { defineProps, onMounted } from 'vue';
+import { defineProps } from 'vue';
 const props = defineProps({
   numProperties: Number,
   images: Array,
@@ -14,7 +14,7 @@ const props = defineProps({
   >
     <img
       v-if="numProperties == 0"
-      src="../assets/card-image.png"
+      src="../assets/images/no-image.png"
       class="rounded-[10px] w-[300px] h-full object-cover`"
     />
     <img

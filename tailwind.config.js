@@ -17,6 +17,7 @@ module.exports = {
         'lh-green-gray': '#5B6866',
         'lh-md-blue': '#EBEDFF',
         'lh-sky-blue': '#3948FF',
+        'lh-caribbean-green': '#3ECFAF',
       },
       screens: {
         tablet: '768px',

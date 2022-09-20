@@ -1,6 +1,7 @@
 <script setup>
 import { defineProps } from 'vue';
 import CollectionCardImages from './CollectionCardImages.vue';
+
 const props = defineProps({
   title: String,
   numProperties: Number,
