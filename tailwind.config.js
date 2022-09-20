@@ -2,12 +2,6 @@ module.exports = {
   purge: ['./src/**/*.vue'],
   theme: {
     extend: {
-      width: {
-        73: '293px',
-      },
-      height: {
-        49: '196px',
-      },
       fontFamily: {
         Silka: ['Silka', 'sans-serif'],
       },
