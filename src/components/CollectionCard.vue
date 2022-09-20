@@ -20,7 +20,11 @@ const props = defineProps({
       <div
         class="text-[14px] text-lh-green-gray leading-[24px] font-[400] mt-3 h-[18px]"
       >
-        {{ numProperties }} propiedades guardadas
+        {{
+          numProperties == 1
+            ? `${numProperties} propiedad guardada`
+            : `${numProperties} propiedades guardadas`
+        }}
       </div>
     </div>
   </div>
