@@ -1,24 +1,32 @@
-# prueba-la-haus
+# Prueba La Haus
 
-This template should help get you started developing with Vue 3 in Vite.
+En el siguiente repositorio se presenta la resolución de la prueba técnica de La Haus.
+El proyecto desplegado se puede ver en el siguiente [enlace](https://susanaalvarezzuluaga.github.io/lh-prueba/)
 
-## Recommended IDE Setup
+## Instucciones de la prueba :
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) 
+- Se debe realizar la maquetación idéntica del diseño en [Figma](https://www.figma.com/file/sW5Z8Y3pHim5OYIAAvRtd9/Prueba-T%C3%A9cnica?node-id=1%3A2).
+- Se debe hacer el consumo de la [API](https://www.figma.com/file/sW5Z8Y3pHim5OYIAAvRtd9/Prueba-T%C3%A9cnica?node-id=1%3A2) para mostrar las colecciones de real estates.
+- La card que dice “Crea una nueva lista” no tiene funcionalidad.
 
-## Project Setup
+- ### Requerimientos:
+  - Usar Flexbox, CSS Grid y Tailwind CSS.
+  - Hacer la maquetación responsive (Mobile & Desktop).
+  - Usar Vue.js.
+
+## Configuración del proyecto
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+### Compilar para desarollo
 
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
+### Compilar y Minificar para Producción
 
 ```sh
 npm run build
