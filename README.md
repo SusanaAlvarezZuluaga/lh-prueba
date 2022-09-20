@@ -6,7 +6,7 @@ El proyecto desplegado se puede ver en el siguiente [enlace](https://susanaalvar
 ## Instucciones de la prueba :
 
 - Se debe realizar la maquetación idéntica del diseño en [Figma](https://www.figma.com/file/sW5Z8Y3pHim5OYIAAvRtd9/Prueba-T%C3%A9cnica?node-id=1%3A2).
-- Se debe hacer el consumo de la [API](https://www.figma.com/file/sW5Z8Y3pHim5OYIAAvRtd9/Prueba-T%C3%A9cnica?node-id=1%3A2) para mostrar las colecciones de real estates.
+- Se debe hacer el consumo de la [API](https://lh-real-estates-challenge-api.herokuapp.com/real-estates) para mostrar las colecciones de real estates.
 - La card que dice “Crea una nueva lista” no tiene funcionalidad.
 
 - ### Requerimientos:
